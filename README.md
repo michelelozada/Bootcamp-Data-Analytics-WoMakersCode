@@ -1,5 +1,5 @@
 <div align="center">
-<img src="">
+<img src="https://github.com/michelelozada/Bootcamp-Data-Analytics-WoMakersCode/blob/main/assets/logo.jpg">
 <h2>Bootcamp de Data Analytics - WoMakersCode (2024/2025)</h2>
 
 [Descrição](#pencil-descri%C3%A7%C3%A3o) &nbsp;•&nbsp; 
@@ -27,7 +27,7 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
 
 #### Python Básico 
 
-📁 Acessar o Colab com a resolução do [Desafio para Candidatura ao Bootcamp de Data Analytics](https://colab.research.google.com/drive/12RUgl4mwSWtmjIMWxiqS2JRuGvIlAXM6?usp=drive_link)
+📁 Acessar o Colab com a resolução do [Desafio para Candidatura ao Bootcamp de Data Analytics](https://colab.research.google.com/drive/12RUgl4mwSWtmjIMWxiqS2JRuGvIlAXM6?usp=sharing)
 
 &nbsp; 
 
@@ -44,11 +44,11 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
 
 </details>
 
-📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/17C6oasz57hN9G_P06IH7oDhaNzGuGGvr?usp=drive_link)
+📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/17C6oasz57hN9G_P06IH7oDhaNzGuGGvr?usp=sharing)
   
 &nbsp;
 
-#### Python para Dados
+#### Python para Dados 
 <details>
   <summary>Clique para ver a relação dos tópicos estudados</summary>
    
@@ -56,11 +56,11 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
   1. Estudo das bibliotecas NumPy e Pandas
   1. Data wrangling
   1. ETL pipelines  
-  - Tecnologias/ferramentas utilizadas: Diversas bibliotecas em Python no Google Colab  
+  - Tecnologias/ferramentas utilizadas: Bibliotecas Pandas e NumPy no Google Colab  
     
 </details>
 
-📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1SrjAIb_uVdIPvHiz0t6H47wEq2O0-TkL?usp=sharing)
+📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1K6JnhOJ6_0FTwxfG0edSbscg0-VIx95n?usp=sharing)
 
 &nbsp; 
   
@@ -79,7 +79,7 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
     
 </details>
 
-📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1SrjAIb_uVdIPvHiz0t6H47wEq2O0-TkL?usp=drive_link)
+📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1SrjAIb_uVdIPvHiz0t6H47wEq2O0-TkL?usp=sharing)
 
 &nbsp; 
 
@@ -97,7 +97,7 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
   
 </details>
 
-📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1KkXkV84KrHXowpn4ksAHS5Ns4Va0K6F_?usp=drive_link)
+📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1KkXkV84KrHXowpn4ksAHS5Ns4Va0K6F_)
 
 &nbsp;  
 
@@ -117,7 +117,7 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
   
 </details>
 
-📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1h5Pw5cmj_OvrgaeZouPJBgU21DBK-EOn?usp=drive_link)
+📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1h5Pw5cmj_OvrgaeZouPJBgU21DBK-EOn?usp=sharing)
 
 &nbsp;  
 
@@ -133,7 +133,7 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
 
 </details>
 
-📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1QeqFkuN9ZBDROarxYJjL2QEKggdgdBim?usp=drive_link)
+📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1QeqFkuN9ZBDROarxYJjL2QEKggdgdBim?usp=sharing)
 
 &nbsp;  
 
@@ -149,7 +149,7 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
 
 </details>
 
-📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1DRwYEB8NX0dR0r3hG2TbDykC1w8gBNia?usp=drive_link)
+📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1DRwYEB8NX0dR0r3hG2TbDykC1w8gBNia?usp=sharing)
 
 &nbsp;  
 
@@ -168,7 +168,7 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
     
 </details>
 
-📁 Acessar a planilha no Google Sheets com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1IeWa6rG2mJVFWHi1_jSW9CXF-BroRJTZ?usp=drive_link)
+📁 Acessar a planilha no Google Sheets com a resolução do [Desafio Individual deste módulo](https://docs.google.com/spreadsheets/d/1C4FQnVYQQRx07k4HhuKc3ebW3_PlpYi3Co-qRAMGqaE/edit?usp=sharing)
 
 &nbsp;  
 
@@ -185,7 +185,7 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
   
 </details>
 
-📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1IeWa6rG2mJVFWHi1_jSW9CXF-BroRJTZ?usp=drive_link)
+📁 Acessar o Colab com a resolução do [Desafio Individual deste módulo](https://colab.research.google.com/drive/1IeWa6rG2mJVFWHi1_jSW9CXF-BroRJTZ?usp=sharing)
   
 &nbsp;  
 
@@ -271,7 +271,7 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
 ###	:checkered_flag: Certificado de Conclusão do Bootcamp
 &nbsp;  
 
-![Descrição da imagem: aparece um Certificado de Conclusão do Bootcamp de Data Analytics](https://github.com/michelelozada/analise-dados-study-notes/blob/main/assets/certificado-bootcamp.jpg "Certificado de Conclusão do Bootcamp de Data Analytics")
+![Descrição da imagem: Aparece um Certificado de Conclusão do Bootcamp de Data Analytics](https://github.com/michelelozada/Bootcamp-Data-Analytics-WoMakersCode/blob/main/assets/certificado-bootcamp.jpg "Certificado de Conclusão do Bootcamp de Data Analytics")
 
 &nbsp;    
 
