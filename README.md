@@ -14,7 +14,7 @@
 &nbsp;  
 Este bootcamp foi um programa de formação que participei durante os meses do segundo semestre de 2024 até janeiro de 2025 (Turma 7). Foi promovido pela WoMakersCode (https://womakerscode.org/) em parceria com a Potência Tech e o IFood.  
 &nbsp;  
-Ao longo destes meses foram disponibilizados diversos módulos sobre hard skills necessárias para a prática da Análise de Dados, com bastante ênfase em metodologias e técnicas de Estatística e Data Science. Também houve o compartilhamento de diversos conteúdos sobre soft skills e mercado de dados.  
+Ao longo destes meses foram disponibilizados diversos módulos sobre hard skills necessárias para a prática da Análise de Dados, com bastante ênfase em metodologias e técnicas de Estatística e Data Science. Houve também o compartilhamento de diversos conteúdos sobre soft skills e mercado de dados.  
 &nbsp;  
 Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas soluções para os desafios individuais propostos - atividades estas que, sem dúvida, ajudaram a ampliar meus conhecimentos em Data Analytics... me permitindo agora novas explorações dentro do infinito Universo dos Dados. 😍 
 &nbsp;            
@@ -277,6 +277,7 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
 
 <div align="center">
 
-  [[Voltar ao topo](bootcamp-de-data-analytics---womakerscode--20242025)]
-
+  [[Voltar ao topo](#bootcamp-de-data-analytics---womakerscode--20242025)]
+  
 </div>
+
