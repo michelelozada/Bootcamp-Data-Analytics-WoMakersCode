@@ -205,6 +205,8 @@ Enfim, foram meses bem importantes para mim e deixo aqui registradas as minhas s
 
 </details>
 
+📁 Acessar o link com o [Desafio Individual deste módulo](https://app.powerbi.com/view?r=eyJrIjoiMGVjNjIwNTEtNjZhZC00ZmY0LTkyZjEtYmU1YzQ4MDExODJkIiwidCI6IjlhZjU5Nzg2LTM0NDMtNGFkMi05ZTVmLWRjMDJhYTNiYzUxMyJ9), que foi a implementação de um<br> dashboard explicado em tutorial do MS Learn (From Excel workbook to stunning report in Power BI Desktop). 
+
 &nbsp;  
 
 #### Computação em Nuvem 
